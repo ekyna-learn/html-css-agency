@@ -10,7 +10,7 @@ Fichier __index.html__.
 
 ![Maquette](doc/01-home.jpg)
 
-<!-- [Version annotée](doc/01-home-annotated.jpg) -->
+[Version annotée](doc/01-home-annotated.jpg)
 
 
 ### Services
